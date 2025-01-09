@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App General Information -->
+    <!-- Updated by William8677 on 2025-01-04 02:46:55 -->
+    <string name="app_name">Xhat</string>
+    <string name="app_logo_description">Application logo</string>
+    <string name="app_logo">Xhat logo</string>
+    <string name="image_description">Descripción de la imagen</string>
+
+    <!-- Accessibility Descriptions -->
+    <string name="start_call_button_description">Start a call</string>
+    <string name="end_call_button_description">End the call</string>
+    <string name="mute_button_description">Mute or unmute the microphone</string>
+    <string name="hangup_button_description">End the call</string>
+    <string name="switch_camera_button_description">Switch the camera</string>
+    <string name="logo_description">Logo description</string>
+
+    <!-- General Strings -->
+    <string name="phone_number">Phone number</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="enter_phone_number">Enter your phone number</string>
+    <string name="send_verification_code">Send the verification code</string>
+    <string name="enter_verification_code">Enter the verification code</string>
+    <string name="verify">Verify</string>
+    <string name="verification_successful">Verification was successful!</string>
+    <string name="verification_failed">Verification failed. Please try again.</string>
+    <string name="empty_phone_number">Please enter a valid phone number</string>
+    <string name="empty_verification_code">Please enter the verification code</string>
+    <string name="enter_valid_number">Please provide a valid phone number</string>
+    <string name="enter_code">Please input the verification code</string>
+    <string name="send_code">Send the code</string>
+    <string name="verification_code">Verification code</string>
+    <string name="verify_code">Verify the code</string>
+    <string name="search_communities">Search Communities</string>
+    <string name="create_new_channel">Create a new channel</string>
+
+    <!-- Email Recovery -->
+    <string name="email_send_failed">Failed to send the email</string>
+    <string name="enter_recovery_email">Enter your recovery email</string>
+    <string name="recover_with_email">Recover using email</string>
+    <string name="recovery_email_sent">Recovery email has been sent</string>
+    <string name="recovery_email_failed">Failed to send the recovery email</string>
+    <string name="no_recovery_email">No recovery email is registered</string>
+    <string name="enter_email">Enter your email (optional)</string>
+    <string name="email_recovery_title">Recover your account via email</string>
+    <string name="save_email">Save email</string>
+
+    <!-- Features -->
+    <string name="stories">Stories</string>
+    <string name="communities">Communities</string>
+    <string name="channels">Channels</string>
+    <string name="chats">Chats</string>
+    <string name="create_new_chat">Create a new chat</string>
+    <string name="create_new_community">Create a new community</string>
+    <string name="create_story">Create a story</string>
+    <string name="view_stories">View stories</string>
+    <string name="create_channel">Create a channel</string>
+    <string name="community_name_hint">Community Name</string>
+    <string name="community_description_hint">Community Description</string>
+    <string name="create_community">Create Community</string>
+    <string name="join_community">Join a community</string>
+    <string name="join_channel">Join a channel</string>
+    <string name="profile_picture">Profile Picture</string>
+
+    <!-- User Interaction -->
+    <string name="send_message">Send a message</string>
+    <string name="receive_message">Receive a message</string>
+    <string name="notifications">Notifications</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Log out</string>
+
+    <!-- Call Activity Messages -->
+    <string name="call_started">Call has started</string>
+    <string name="call_ended">Call has ended</string>
+    <string name="mic_muted">Microphone is muted</string>
+    <string name="call_hung_up">Call has been hung up</string>
+    <string name="camera_switched">Camera switched successfully</string>
+
+    <!-- Help Strings -->
+    <string name="verification_help">Need help? Contact support.</string>
+
+    <!-- Google Maps -->
+    <string name="google_maps_key">YOUR_GOOGLE_MAPS_API_KEY_HERE</string>
+
+    <!-- Activity Titles -->
+    <string name="title_main_activity">Main Activity</string>
+    <string name="title_add_story">Add Story</string>
+    <string name="title_test_activity">Test Activity</string>
+    <string name="title_dashboard">Dashboard</string>
+
+    <!-- Notifications -->
+    <string name="notification_call_title">Llamada de video activa</string>
+    <string name="notification_call_text">Toca para volver a la llamada</string>
+
+    <!-- Chat UI Labels -->
+    <!-- Added by William8677 on 2025-01-04 02:46:55 -->
+    <string name="label_offline_mode">Modo Sin Conexión</string>
+    <string name="no_offline_messages">No hay mensajes disponibles sin conexión</string>
+
+    <!-- Message States -->
+    <string name="read">Read</string>
+    <string name="sent">Sent</string>
+    <string name="delivered">Delivered</string>
+    <string name="sending">Sending</string>
+    <string name="failed">Failed to send</string>
+    <string name="deleted_message">Este mensaje ha sido eliminado</string>
+    <string name="message_sending">Enviando mensaje…</string>
+    <string name="message_sent">Mensaje enviado</string>
+    <string name="message_delivered">Mensaje entregado</string>
+    <string name="message_read">Mensaje leído</string>
+    <string name="message_failed">Error al enviar mensaje</string>
+
+    <!-- Message Content Descriptions -->
+    <string name="desc_message_type">Message type</string>
+    <string name="desc_message_status">Message status</string>
+    <string name="desc_attach_file">Attach file</string>
+    <string name="desc_send_button">Send message</string>
+
+    <!-- Chat Input -->
+    <string name="hint_type_message">Type a message…</string>
+
+    <!-- Message Types -->
+    <string name="message_type_text">Text</string>
+    <string name="message_type_image">Imagen</string>
+    <string name="message_type_video">Video</string>
+    <string name="message_type_audio">Audio</string>
+    <string name="message_type_file">Archivo</string>
+
+    <!-- Message Actions -->
+    <string name="action_copy">Copy</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_forward">Forward</string>
+    <string name="action_reply">Reply</string>
+    <string name="action_share">Share</string>
+    <string name="edit_message">Editar mensaje</string>
+    <string name="copy_message">Copiar mensaje</string>
+    <string name="forward_message">Reenviar mensaje</string>
+    <string name="reply_message">Responder mensaje</string>
+    <string name="delete_message">Eliminar mensaje</string>
+
+    <string name="statistics_title">Estadísticas de Usuario</string>
+    <string name="messages_sent">Mensajes Enviados: %1$d</string>
+    <string name="messages_received">Mensajes Recibidos: %1$d</string>
+    <string name="media_shared">Archivos Compartidos: %1$d</string>
+    <string name="active_chats">Chats Activos: %1$d</string>
+    <string name="total_time">Tiempo Total en App: %1$s</string>
+    <string name="error_loading_stats">No se pudieron cargar las estadísticas.</string>
+    <string name="last_active">Última actividad: %1$s</string>
+    <string name="loading_stats">Cargando estadísticas…</string>
+
+
+    <string name="create">Crear</string>
+    <string name="cancel">Cancelar</string>
+    <string name="error_empty_name">El nombre no puede estar vacío</string>
+    <string name="error_name_too_long">El nombre no puede tener más de %d caracteres</string>
+    <string name="error_description_too_long">La descripción no puede tener más de %d caracteres</string>
+    <string name="error_no_permissions">No tienes permisos para administrar esta comunidad</string>
+    <string name="settings_not_implemented">Configuraciones no implementadas aún</string>
+
+    <string name="community_name">Nombre de la comunidad</string>
+    <string name="community_description">Descripción</string>
+    <string name="community_categories">Categorías (separadas por comas)</string>
+    <string name="private_community">Comunidad privada</string>
+    <string name="restricted_community">Comunidad restringida</string>
+
+    <string name="community_created_successfully">Comunidad creada exitosamente</string>
+    <string name="error_creating_community">Error al crear la comunidad</string>
+</resources>

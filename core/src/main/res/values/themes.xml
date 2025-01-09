@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema principal del módulo core -->
+    <style name="Theme.Core" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Colores primarios -->
+        <item name="colorPrimary">@color/orange_primary</item>
+        <item name="colorPrimaryVariant">@color/orange_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Colores secundarios -->
+        <item name="colorSecondary">@color/orange_light</item>
+        <item name="colorSecondaryVariant">@color/orange_dark</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Colores adicionales -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:navigationBarColor">?attr/colorPrimary</item>
+        <item name="android:windowBackground">@color/white</item>
+
+        <!-- Personalización adicional -->
+        <item name="android:textColor">@color/black</item>
+        <item name="android:buttonTint">@color/orange_primary</item>
+    </style>
+</resources>

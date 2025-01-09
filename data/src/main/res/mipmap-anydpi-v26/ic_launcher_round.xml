@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Fondo del ícono -->
+    <background android:drawable="@color/orange_primary" /> <!-- Usar el color principal de Xhat -->
+    <!-- Primer plano del ícono -->
+    <foreground android:drawable="@drawable/ic_launcher_foreground" />
+    <!-- Versión monocromática (opcional para Android 13 o superior) -->
+    <monochrome android:drawable="@drawable/ic_launcher_foreground" />
+</adaptive-icon>
